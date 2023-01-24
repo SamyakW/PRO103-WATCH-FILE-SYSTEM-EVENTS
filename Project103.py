@@ -8,7 +8,7 @@ import shutil
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
-from_dir = "E:/Projects"
+from_dir = "C:/Users/user/Downloads/Sample"
 
 # Event Hanlder Class
 
